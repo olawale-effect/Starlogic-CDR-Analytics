@@ -94,6 +94,7 @@ Pull requests welcome! For major changes, please open an issue first to discuss 
 ## 🙌 Acknowledgements
 
 Built by **Olawale Falodun**, a Data Engineer & Business Intelligence Analyst, with real-world understanding of telco customer behavior and micro-revenue engines.
+[LinkedIn](https://www.linkedin.com/in/olawale-falodun-b26b61ab/)
 
 > "You'd be amazed how much ₦5 can trigger, if the call back is strategic."
 
